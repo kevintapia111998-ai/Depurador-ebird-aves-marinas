@@ -34,7 +34,7 @@ Los datos de eBird **no se redistribuyen en este repositorio** porque los [Térm
 1. Crea una cuenta en [eBird](https://ebird.org).
 2. Solicita el acceso al EBD en **[ebird.org/data/download](https://ebird.org/data/download)**, indicando el propósito de uso. La aprobación puede tardar algunos días.
 3. Descarga el EBD filtrado por región (p. ej. `Ecuador > Esmeraldas`) y rango de fechas.
-4. Descomprime el archivo `ebd_*.txt` dentro de la carpeta `data/`. El `.gitignore` evita que se suba por error.
+4. Descomprime el archivo `ebd_*.txt` dentro de la carpeta `data/`. 
 
 ### Muestra incluida
 
